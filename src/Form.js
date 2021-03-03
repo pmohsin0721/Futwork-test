@@ -101,27 +101,6 @@ const Form = () => {
                     {val.optionText}
                   </label>
                 ))}
-
-                {/* <label>
-                  <input type="radio" name="organisation" />
-                  {FormData.organizationType.options[0].optionText}
-                </label> */}
-                {/* <label>
-                  <input type="radio" name="organisation" />
-                  {FormData.organizationType.options[1].optionText}
-                </label>
-                <label>
-                  <input type="radio" name="organisation" />
-                  {FormData.organizationType.options[2].optionText}
-                </label>
-                <label>
-                  <input type="radio" name="organisation" />
-                  {FormData.organizationType.options[3].optionText}
-                </label>
-                <label>
-                  <input type="radio" name="organisation" />
-                  {FormData.organizationType.options[4].optionText}
-                </label> */}
               </div>
             </form>
           </div>
